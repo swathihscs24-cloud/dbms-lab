@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "692961992e2b4f7a97575e09"
+  },
+  "name": "Aisha Khan",
+  "age": 15,
+  "date_of_birth": "2010-02-18",
+  "subjects_enrolled": [
+    "Mathematics",
+    "Biology",
+    "History"
+  ]
+},
+{
+  "_id": {
+    "$oid": "692961c92e2b4f7a97575e0b"
+  },
+  "name": "John Doe",
+  "age": 16,
+  "date_of_birth": "2009-04-12",
+  "subjects_enrolled": [
+    "Mathematics",
+    "Science",
+    "English"
+  ]
+},
+{
+  "_id": {
+    "$oid": "692961f72e2b4f7a97575e0d"
+  },
+  "name": "Ethan Smith",
+  "age": 17,
+  "date_of_birth": "2008-07-09",
+  "subjects_enrolled": [
+    "Physics",
+    "Chemistry",
+    "Computer Science"
+  ]
+},
+{
+  "_id": {
+    "$oid": "692962502e2b4f7a97575e0f"
+  },
+  "name": "Liam Chen",
+  "age": 14,
+  "date_of_birth": "2011-05-30",
+  "subjects_enrolled": [
+    "Mathematics",
+    "Coding",
+    "Music"
+  ]
+}]
